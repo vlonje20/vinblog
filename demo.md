@@ -1,5 +1,6 @@
 # Learning Markdow
 
-![alt text](c:\Users\vintech\vin_repo\gitHub\vinblog\vinblog\img\image.png)
-
 ![alt text](image.png)
+
+This is a sample image in a folder
+![image in github](https://github.com/vlonje20/vinblog/blob/main/img/image.png)
