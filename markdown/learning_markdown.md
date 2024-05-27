@@ -18,6 +18,9 @@ Ubuntu comes in a variety of flavors. In this chapter, we will discuss briefly a
 Ubuntu Desktop
 This is the operating system which can be used by regular users. This comes pre-built with software that help the users perform usual basic activities. Operations such as browsing, email and multimedia are also available in this edition. The latest version as of September 2016 is 16.04.01.
 
+![office space](office space.jpg)
+
+
 Ubuntu Server
 The server version is used for hosting applications such as web servers and databases. Each server version is supported by Ubuntu for 5 years. These operating systems have support for cloud platforms such as AWS and Azure. The latest version as of September 2016 is 16.04.1.
 
