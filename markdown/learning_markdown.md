@@ -38,8 +38,9 @@ Copy Button:
 - Single line 
 
 Update the server:
-##
+## 
   apt update -y 
+  
 
 - Multiple Lines 
 Update the server:
