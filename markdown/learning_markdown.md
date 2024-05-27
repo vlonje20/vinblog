@@ -18,7 +18,7 @@ Ubuntu comes in a variety of flavors. In this chapter, we will discuss briefly a
 Ubuntu Desktop
 This is the operating system which can be used by regular users. This comes pre-built with software that help the users perform usual basic activities. Operations such as browsing, email and multimedia are also available in this edition. The latest version as of September 2016 is 16.04.01.
 
-![office space](office space.jpg)
+![office space](officespace.jpg)
 
 
 Ubuntu Server
